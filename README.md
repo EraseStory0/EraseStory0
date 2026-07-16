@@ -25,4 +25,4 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![snake gif](https://github.com/YOUR_USERNAME/EraseStory0/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/EraseStory0/EraseStory0/blob/output/github-snake-dark.svg)
