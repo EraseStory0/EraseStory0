@@ -4,7 +4,7 @@
 #### BSc SWE Student | Aspiring Cloud Security Engineer | Exploring Cybersecurity
 
 # 💫 About Me:
-## 👋 About Me<br><br>- 🎓 2nd year BSc student in Software Engineering<br>- ☁️ Currently learning Cloud Security Engineering<br>- 🔐 Aspiring to specialize in Cybersecurity Engineering<br>- 🌱 Exploring: [AWS/Azure Security, Network Security, etc. — fill in what you're studying]<br>- 💡 Interested in: secure system design, cloud infrastructure, threat detection<br>- 📫 Reach me at: [your email/LinkedIn]<br>- ⚡ Fun fact: [something personal/light]
+## 👋 About Me<br><br>- 🎓 BSc student in Software Engineering<br>- ☁️ Currently learning Cloud Security Engineering<br>- 🔐 Aspiring to specialize in Cybersecurity Engineering<br>- 🌱 Exploring: AWS/Azure Security, Network Security <br>- 💡 Interested in: Secure system design, Cloud infrastructure, Threat detection<br>- 📫 Reach me at: Email will be given later <br>- ⚡ Fun fact: I am also a gamers...
 
 
 ## 🌐 Socials:
